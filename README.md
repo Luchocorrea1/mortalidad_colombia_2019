@@ -121,7 +121,7 @@ La aplicación ha sido desplegada en una plataforma como servicio (PaaS) utiliza
 3. Configurar el comando de inicio (*Start Command*): `gunicorn src.app:server`.
 
 
-4. Enlace público de la aplicación desplegada: [Insertar URL de Render aquí]
+4. Enlace público de la aplicación desplegada: https://mortalidad-colombia-2019-v9ir.onrender.com/
 
 
 
@@ -131,29 +131,24 @@ A continuación se presentan los componentes visuales interactivos implementados
 
 * **Distribución de Muertes por Departamento:** Permite identificar visualmente las regiones del país con mayor concentración de defunciones durante el año 2019.
 
+![alt text](images/distribución-total-de-muertes-por-depart.png)
 
-*(Inserta aquí tu captura de pantalla del gráfico de barras departamental)*
 * **Evolución Temporal por Mes:** Muestra las variaciones estacionales y los picos de mortalidad a lo largo de los meses del año.
 
+![alt text](images/evolución-del-total-de-muertes-por-mes.png)
 
-*(Inserta aquí tu captura de pantalla del gráfico de líneas)*
 * **Índice de Homicidios (Top 5 Ciudades):** Destaca las ciudades con mayor concentración de muertes violentas asociadas a agresiones con armas de fuego (códigos específicos analizados).
 
+![alt text](images/top-5-ciudades-con-mayor-homicidios-cód.png)
 
-*(Inserta aquí tu captura de pantalla del gráfico de barras de homicidios)*
 * **Menor Índice de Mortalidad (Top 10 Ciudades):** Ilustra mediante un diagrama circular las regiones que registraron los menores índices de defunciones.
 
+![alt text](images/top-10-ciudades-con-menor-índice-de-mort.png)
 
-*(Inserta aquí tu captura de pantalla del gráfico circular)*
 * **Principales Causas de Muerte (Tabla Resumen):** Lista ordenada de mayor a menor frecuencia de las 10 principales patologías o causas asociadas a los decesos.
 
+![alt text](images/captura_tabla.png)
 
-*(Inserta aquí tu captura de pantalla de la tabla interactiva)*
 * **Análisis Demográfico por Sexo y Edad:** Comparativa de género por departamento y distribución etaria según los rangos del DANE a lo largo del ciclo vital.
 
-
-*(Inserta aquí tus capturas de pantalla de las barras apiladas y el histograma de edades)*
-
-```
-
-```
+![alt text](images/comparación-de-muertes-por-sexo-y-depart.png)
