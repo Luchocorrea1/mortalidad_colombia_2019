@@ -2,16 +2,16 @@
 
 **Maestría en Inteligencia Artificial — Aplicaciones I (Actividad 4)**  
 **Integrantes del Grupo:** 
-* Cristhian Camilo Gutiérrez Bejarano[cite: 1]
-* Luis Norbey Correa Diaz[cite: 1]
+* Cristhian Camilo Gutiérrez Bejarano
+* Luis Norbey Correa Diaz
 
 ---
 
 ## 1. Introducción del Proyecto
-Esta aplicación web interactiva ha sido desarrollada en el lenguaje de programación Python utilizando los frameworks avanzados **Dash** y **Plotly**[cite: 1]. Su propósito principal es transformar un conjunto de datos complejos y masivos en representaciones visuales dinámicas e intuitivas, permitiendo explorar a profundidad los patrones, tendencias y correlaciones clave de la mortalidad en Colombia durante el año 2019[cite: 1].
+Esta aplicación web interactiva ha sido desarrollada en el lenguaje de programación Python utilizando los frameworks avanzados **Dash** y **Plotly**. Su propósito principal es transformar un conjunto de datos complejos y masivos en representaciones visuales dinámicas e intuitivas, permitiendo explorar a profundidad los patrones, tendencias y correlaciones clave de la mortalidad en Colombia durante el año 2019.
 
 ## 2. Objetivo
-Analizar la distribución espacial, demográfica y temporal de la mortalidad en Colombia para el año 2019 mediante un dashboard web interactivo, facilitando la identificación de factores críticos como los índices departamentales de defunciones, la evolución mensual, la incidencia de homicidios por ciudades, las principales causas de muerte y la distribución etaria a lo largo del ciclo vital[cite: 1].
+Analizar la distribución espacial, demográfica y temporal de la mortalidad en Colombia para el año 2019 mediante un dashboard web interactivo, facilitando la identificación de factores críticos como los índices departamentales de defunciones, la evolución mensual, la incidencia de homicidios por ciudades, las principales causas de muerte y la distribución etaria a lo largo del ciclo vital.
 
 ## 3. Estructura del Proyecto
 El proyecto está organizado de manera modular siguiendo las mejores prácticas de desarrollo de software y estándares de arquitectura en Python:
