@@ -1,0 +1,20 @@
+# Entornos virtuales (¡Muy importante para no subir carpetas venv pesadas!)
+venv/
+env/
+ENV/
+.env
+
+# Archivos de caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Directorios de IDEs (Visual Studio Code, PyCharm, etc.)
+.vscode/
+.idea/
